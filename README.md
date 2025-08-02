@@ -38,7 +38,17 @@ scikit-learn
 seaborn, matplotlib
 ### 📌 1. Install dependencies
 
-```bash
+
 pip install -r requirements.txt
 
+📌 2. Train the model 
+
+python train.py
+📌 3. Predict a new review
+python predict.py
+📌 Example Output
+Review: This movie was absolutely amazing!
+Predicted Sentiment: Positive
+👨‍💻 Author
+Ayush Sharma
 
